@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lamir12
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 📫 How to reach me lamir.ahmed321@gmail.com
